@@ -1,0 +1,8 @@
+prefix=/home/fzt/catkin_chen/src/cmake-build-debug/devel
+
+Name: demo_chen
+Description: Description of demo_chen
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy moveit_core moveit_ros_planning_interface

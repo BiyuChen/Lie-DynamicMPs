@@ -1,0 +1,2 @@
+probot_demo
+-DCATKIN_DEVEL_PREFIX=/home/fzt/catkin_chen/devel -DCMAKE_INSTALL_PREFIX=/home/fzt/catkin_chen/install -G Unix Makefiles

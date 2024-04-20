@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<launch>
+<node name="move"
+          pkg="demo_chen"
+          type="moveit_cartesian_demo">
+    </node>
+<node name="data"
+          pkg="demo_chen"
+          type="moveit_random_demo"
+output="screen">
+    </node>
+</launch>

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fzt/catkin_chen/src/cmake-build-debug/devel/setup.sh

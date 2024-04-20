@@ -1,0 +1,8 @@
+prefix=/home/fzt/catkin_chen/devel
+
+Name: inspire_description
+Description: Description of inspire_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
